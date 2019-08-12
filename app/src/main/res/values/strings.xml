@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="programming_language">Bahasa Pemerograman</string>
+    <string name="history">Sejarah</string>
+    <string name="profile">Profile</string>
+    <string name="data_name">Data Nama</string>
+    <string name="data_email">Data Email</string>
+    <string name="data_history">Data History</string>
+</resources>
